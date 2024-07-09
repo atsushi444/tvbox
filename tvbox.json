@@ -22,7 +22,8 @@
 { "key":"*辣椒资源","name":"🔞辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 { "key":"*KK写真资源","name":"🔞KK资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "api.sexnguon.com", "name": "🔞越南","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
-  ],
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
+],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   "lives": [{"group": "redirect","channels": [
 {"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"]}]},
