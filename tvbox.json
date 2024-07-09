@@ -1,9 +1,8 @@
 {"spider": "https://agit.ai/fenwe/fm/raw/branch/main/jar/custom_spider.jar",
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "sites": [
-{ "key": "量子", "name": "量子", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "categories": ["伦理片"]},
-{ "key": "量子1", "name": "量子1", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "非凡", "name": "非凡", "type": 0, "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "categories": ["伦理片"]},
+{ "key": "量子", "name": "量子", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "非凡", "name": "非凡", "type": 0, "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "ms4nii", "name": "美少女资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "KxrbspE", "name": "淫水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "gdlsE", "name": "香奶儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
