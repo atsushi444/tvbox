@@ -1,7 +1,7 @@
 {
 "spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./18TV.txt"]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[
 //{"key":"csp_xBPQ_天天综合","name":"天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/天天综合.json"},
