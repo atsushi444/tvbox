@@ -27,11 +27,7 @@
 { "key": "api.sexnguon.com", "name": "🔞色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
 { "key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
   
-{"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AIvin","name":"AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"色猫资源","name":"色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"葡萄资源","name":"葡萄资源","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大MM资源","name":"大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"99资源","name":"99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
