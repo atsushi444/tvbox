@@ -25,7 +25,7 @@
 { "key":"*辣椒资源","name":"🔞辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 { "key":"*KK写真资源","name":"🔞KK资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "api.sexnguon.com", "name": "🔞色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
-{ "key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
   
 
 {"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
