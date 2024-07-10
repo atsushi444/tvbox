@@ -48,7 +48,7 @@
 { "key":"vnzyz.com","name":"💕越南(直连)","type":1,"api":"https://vnzyz.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 { "key":"sesehuzy.com","name":"💕色虎(直连)","type":1,"api":"https://apisesehuzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 { "key":"haosezyw.com","name":"💕好色(直连)","type":1,"api":"https://haosezyw.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"naixxzy.com","name":"💕奶香香(直连)","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{ "key":"naixxzy.com","name":"💕奶香香(直连)","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 { "key":"lyhzyw.com","name":"💕狼友会(直连)","type":1,"api":"https://api.lyhapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 
 { "key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar": "./jar/pg.jar"},
