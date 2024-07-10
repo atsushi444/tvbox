@@ -1,5 +1,5 @@
 {
-
+"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./18TV.txt"]}]}],
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
@@ -33,32 +33,36 @@
 { "key": "采集G(jkun)","name": "🔞jkun","type": 1,"api": "https://www.jkunzyapi.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key": "森林","name": "🔞森林资源","type": 1,"api": "https://slapibf.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
     {
-      "key": "黑料",
-      "name": "🔞黑料",
+      "key": "av188",
+      "name": "🔞Netflav",
+      "type": 3,
+      "api": "csp_Netflav",
+      "searchable": 1,
+      "changeable": 0 ,
+      "jar": "./jar/dx.jar"
+    },
+    {
+      "key": "csp_xBPQ_404精品",
+      "name": "🔞404精品",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "./jar/XYQ.jar",
       "ext": {
-      "发布地址": "https://hl31.co/",
-      "直接播放": "1",
-      "免嗅": "1",
-      "数组": "<div class=\"video-item \" data-v-a51695bc&&</a>",
-      "图片": "onload=\"loadImg(this,'&&')\"",
-      "标题": "title\" data-v-a51695bc>&&</div>",
-      "副标题": "ishot\" data-v-a51695bc>&&</div>",
-      "链接": "href=\"&&\"",
-      "播放数组": "<div class='dplayer&&</div>",
-      "播放列表": "'{&&}'",
-      "播放链接": "\"url\":\"&&\"",
-      "分类url": "https://1gca.iemixovyt.com/category/{cateId}/{catePg}.html",
-      "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
-      "分类值": "9&1&4&2&12&3&7&6&8&10&11"
-   }
-    },
-
+          "站名": "404精品",
+          "主页url": "https://404jpz.xyz/",
+          "分类": "精品推荐$27#剧情原创$28#探花约啪$51#主播大秀$52#传媒影像$53#情色节目$59#P站精品$61#抖阴短视频$63#网曝门$70#AV解说$76#国产视频$29#网红主播$30#偷拍自拍$31#国产伦理$77#国产精品$75#日韩视频$1#中文字幕$33#名优写真$35#日本伦理$39#名优综艺$40#韩美眉主播$41#骑兵有码$43#无码专区$6#卡通动漫$8#欧美$34",
+          "数组": "<div class=\"content\">&&</div>",
+          "图片": "src=\"&&\"",
+          "标题": "title=\"&&\"",
+          "链接": "href=\"&&\"",
+          "副标题": "title=\"&&\"",
+          "分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+          "直接播放": "1",
+          "免嗅": "1"
+       },
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 ],
 "parses":[
