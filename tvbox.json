@@ -52,7 +52,7 @@
 	"filterable":0,
 	"timeout":60，
         "jar": "./jar/pg.jar"
-},
+        },
  {
             "key": "Eighteen",
             "name": "Eighteen",
@@ -70,7 +70,7 @@
             "searchable": 1,
             "jar": "./jar/pg.jar"	  
         },
-  {
+{
             "key": "Jable",
             "name": "Jable🚀",
             "type": 3,
@@ -78,7 +78,7 @@
             "searchable": 1,
             "jar": "./jar/pg.jar"
         },
-	{
+{
             "key": "XVideos",
             "name": "🔞XVideos | 直连",
             "type": 3,
@@ -90,8 +90,7 @@
             "jar": "./jar/Xv.jar",
             "style": {
                 "type": "rect",
-                "ratio": 1.485
-            }
+                "ratio": 1.485}
         },
      {
       "key": "黑料",
@@ -116,8 +115,7 @@
       "播放链接": "\"url\":\"&&\"",
       "分类url": "https://1gca.iemixovyt.com/category/{cateId}/{catePg}.html",
       "分类": "独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜",
-      "分类值": "9&1&4&2&12&3&7&6&8&10&11"
-   }
+      "分类值": "9&1&4&2&12&3&7&6&8&10&11"}
     },
     {
       "key": "av188",
@@ -148,8 +146,7 @@
           "副标题": "title=\"&&\"",
           "分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
           "直接播放": "1",
-          "免嗅": "1"
-       }
+          "免嗅": "1"}
     }, 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 ],
