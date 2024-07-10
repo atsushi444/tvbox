@@ -41,7 +41,7 @@
       "changeable": 0 ,
       "jar": "./jar/dx.jar"
     },
-    {
+       {
       "key": "csp_xBPQ_404精品",
       "name": "🔞404精品",
       "type": 3,
@@ -62,7 +62,8 @@
           "分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
           "直接播放": "1",
           "免嗅": "1"
-       },
+       }
+    }, 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 ],
 "parses":[
