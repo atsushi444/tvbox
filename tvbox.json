@@ -33,7 +33,7 @@
 { "key": "采集G(jkun)","name": "🔞jkun","type": 1,"api": "https://www.jkunzyapi.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key": "森林","name": "🔞森林资源","type": 1,"api": "https://slapibf.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key":"155zy.com","name":"♥155(直连)","type":1,"api":"https://155api.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-
+{"key":"timizy.cc","name":"💕甜蜜(直连)","type":1,"api":"https://tianmiapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
      
 {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
