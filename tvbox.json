@@ -28,6 +28,8 @@
 { "key":"*KK写真资源","name":"🔞KK资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "api.sexnguon.com", "name": "🔞色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
 { "key": "采集A（精品）","name": "🔞精品","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
+{ "key": "采集C(黄瓜)","name": "🔞黄瓜","type": 1,"api": "https://www.avre06.com/api.php/Prodao/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
+{ "key": "采集E(草榴)","name": "🔞草榴","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 ],
 "parses":[
