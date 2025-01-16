@@ -2,6 +2,7 @@
 var rule = {
     title:'朱古力',
     host:'https://pigav.com',
+    	searchUrl:'/?s=**',
     url:'/fyclass/page/fypage',
     headers:{
         'User-Agent':'MOBILE_UA'
@@ -14,4 +15,8 @@ var rule = {
     lazy:'',
     一级:'.l-post div&&a;a&&title;span&&data-bgsrc;.absolute.bottom-1&&Text;a&&href',
     二级:'*',
+    搜索:'.l-post div&&a;a&&title;span&&data-bgsrc;.absolute.bottom-1&&Text;a&&href',
+    	searchable:1,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
+    filterable:0,//是否启用分类筛选,
 }
