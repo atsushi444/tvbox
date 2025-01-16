@@ -12,8 +12,8 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"海洋资源","name": "海洋资源","api": "https://www.seacms.org/zyapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":3},
-{"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":4},
+{"key":"海洋资源","name": "海洋资源","api": "https://www.seacms.org/zyapi.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 { "key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
 { "key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 { "key": "量子", "name": "量子", "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
