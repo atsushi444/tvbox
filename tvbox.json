@@ -13,6 +13,12 @@
 
 "sites":[  
 {"key":"U酷资源","name": "U酷资源","api": "https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"淘片资源","name": "淘片资源","api": "https://taopianapi.com/cjapi/mc10/vod/json.html","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"华为吧","name": "华为吧","api": "https://huawei8.live/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"鱼乐资源","name": "鱼乐资源","api": "https://104.161.22.124/api.php/provide/vod","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"黑木耳资源","name": "黑木耳资源","api": "https://json.heimuer.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"鸭鸭资源","name": "鸭鸭资源","api": "https://cj.yayazy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"牛牛资源","name": "牛牛资源","api": "https://api.niuniuzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"海洋资源","name": "海洋资源","api": "https://www.seacms.org/zyapi.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 { "key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
