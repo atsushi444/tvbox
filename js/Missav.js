@@ -12,7 +12,7 @@ var rule = {
     limit:5,
     play_parse:true,
     lazy:'',
-    一级:'.grid.grid-cols-2 div&&a;.lozad.w-full&&alt;.lozad.w-full&&data-src;a&&href',
+    一级:'.grid.grid-cols-2 div&&a;.lozad.w-full&&alt;.lozad.w-full&&data-src;.absolute.bottom-1&&Text;a&&href',
     二级:'*',
 	搜索:'.grid.grid-cols-2 div&&a;.lozad.w-full&&alt;.lozad.w-full&&data-src;.absolute.bottom-1&&Text;a&&href',
 	searchable:1,//是否启用全局搜索,
