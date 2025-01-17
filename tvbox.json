@@ -12,9 +12,8 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"环亚资源","name": "环亚资源","api": "http://hysscj.com/inc/sapi.php","type":0,"searchable":1,"quickSearch":1},
-{"key":"樱花资源","name": "樱花资源","api": "https://m3u8.apiyhzy.com/api.php/provide/vod/","type":0,"searchable":1,"quickSearch":1},
-{"key":"新浪资源","name": "新浪资源","api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","type":0,"searchable":1,"quickSearch":1},
+{"key":"樱花资源","name": "樱花资源","api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml","type":0,"searchable":1,"quickSearch":1},
+{"key":"新浪资源","name": "新浪资源","api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml","type":0,"searchable":1,"quickSearch":1},
 {"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
@@ -80,6 +79,7 @@
 {"key":"GAY资源","name": "🔞GAY资源","api": "https://gayapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"桃花资源","name": "🔞桃花资源","api": "https://thzy1.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"萝莉资源","name": "🔞萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"环亚资源","name": "🔞环亚资源","api": "http://hysscj.com/inc/sapi.php","type":0,"searchable":1,"quickSearch":1},
 
 { "key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.309}},
 { "key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.77}},
