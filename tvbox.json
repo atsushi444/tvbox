@@ -28,10 +28,6 @@
 {"key":"天空资源","name": "天空资源","api": "https://api.tiankongapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"影图","name": "影图","api": "https://cj.vodimg.top/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"飘零影院","name": "飘零影院","api": "https://p2100.net/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"优优资源","name": "优优资源","api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"GAY资源","name": "GAY资源","api": "https://gayapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"桃花资源","name": "桃花资源","api": "https://thzy1.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"萝莉资源","name": "萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"U酷资源","name": "U酷资源","api": "https://api.ukuapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"360资源","name": "360资源","api": "https://360zy.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
@@ -79,7 +75,10 @@
 { "key":"semaozy.com","name":"🔞色猫","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","searchable":1,"filterable":1},
 { "key":"laosebizy.com","name":"🔞老色逼","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1}, 
 { "key":"naixxzy.com","name":"🔞奶香香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-
+{"key":"优优资源","name": "🔞优优资源","api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"GAY资源","name": "🔞GAY资源","api": "https://gayapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"桃花资源","name": "🔞桃花资源","api": "https://thzy1.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"萝莉资源","name": "🔞萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 
 { "key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.309}},
 { "key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.77}},
