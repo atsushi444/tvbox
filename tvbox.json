@@ -12,6 +12,9 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
+{"key":"红牛资源","name":"红牛资源","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"无尽资源","name":"无尽资源","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"闪电资源","name":"闪电资源","type":0,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"金鹰资源","name":"金鹰资源","type":0,"api":"http://jinyingzy.com/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"海洋资源","name": "海洋资源","api": "https://www.seacms.org/zyapi.php","searchable":1,"quickSearch":1},
 { "key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
