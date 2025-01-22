@@ -12,7 +12,7 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"资源","name": "品","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
+{"key":"番茄资源","name": "番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 {"key":"资源","name": "极品1","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":0,"searchable":1,"quickSearch":1},
             
 {"key":"豆瓣资源","name": "豆瓣资源","api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/","type":1,"searchable":1,"quickSearch":1},
@@ -73,6 +73,7 @@
 {"key":"桃花资源","name": "❤桃花资源","api": "https://thzy1.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"环亚资源","name": "❤环亚资源","api": "http://hysscj.com/inc/sapi.php","type":0,"searchable":1,"quickSearch":1},
 {"key":"极品资源","name": "❤极品资源","api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
+{"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 { "key": "KpgxdyE", "name": "🔞黄AV", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "api.sexnguon.com", "name": "🔞色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
 { "key": "采集A（精品）","name": "🔞精品","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
