@@ -69,7 +69,6 @@
 {"key":"桃花资源","name": "❤桃花资源","api": "https://thzy1.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"环亚资源","name": "❤环亚资源","api": "http://hysscj.com/inc/sapi.php","type":0,"searchable":1,"quickSearch":1},
 { "key": "KpgxdyE", "name": "🔞黄AV", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "探探资源", "name": "🔞探探资源", "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml", "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "api.sexnguon.com", "name": "🔞色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
 { "key": "采集A（精品）","name": "🔞精品","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 { "key":"didizy.com","name":"🔞滴滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
