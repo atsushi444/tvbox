@@ -50,7 +50,7 @@
 { "key": "KxrbspE", "name": "🔞淫水机(直连)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "gdlsE", "name": "🔞香奶儿(直连)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "kxgav", "name": "🔞白嫖(直连)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "(18+)富二代资源", "name": "❤富二代资源(直连)", "type": 2, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "(18+)富二代资源", "name": "❤富二代资源(直连)", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "(18+)大地资源", "name": "❤大地资源(直连)", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "(18+)番号资源", "name": "❤番号资源(直连)", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "(18+)S猫资源", "name": "❤色猫资源(直连)", "type": 0, "api": "https://api.maozyapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
