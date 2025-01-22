@@ -1,73 +1,51 @@
-{"name": "久奇电影网",
-"url": "https://www.k6543.com/",
+{"name": "麻豆网",
+"url": "https://madouse.la/",
+"tihuan": "cnzz.com",
 "User": "空",
-
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "0",
-
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-
-//影视分类和翻页后缀部分，如果分类类型填空，例如：测试$空，则直接取url字段网站的源码。
-"fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#番剧$/vodshow/26--------",
-"houzhui": "---.html",
-"qishiye": "1",//可以自定义列表翻页起始页的页数，如果填上一个空字，则不使用起始页数，直接获取链接的数据。
-
-//影视列表展示部分
+"fenlei": "原创$/index.php/vod/type/id/1/page/#有码$/index.php/vod/type/id/2/page/#无码$/index.php/vod/type/id/3/page/#中字$/index.php/vod/type/id/4/page/#国产$/index.php/vod/type/id/5/page/",
+"houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"myui-vodlist__box\"",
-"jiequshuzuhou": "</span>",
-"tupianqian": "original=\"",//如果tupianqian字段写网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"jiequshuzuqian": "class=\"li-img",
+"jiequshuzuhou": "</a>",
+"tupianqian": "src=\"",
 "tupianhou": "\"",
-"tupianqianzhui": "空",//可以自己定义截取图片的前缀
 "biaotiqian": "title=\"",
 "biaotihou": "\"",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
-"ljqianzhui": "空", //可以自己定义截取链接的前缀
-
-//副标题不需要的话，就不填写或者删除副标题2个字段也可以。
-"fubiaotiqian": "",
-"fubiaotihou": "",
-
-//搜索部分
-"sousuohouzhui": "/voddetail/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"ssmoshi": "0",
+"sousuoqian": "/?m=search-type-so-0.html&TXT=",
+"sousuohou": "&submit=",
+"sousuohouzhui": "/detail/",
+"ssmoshi": "1",
 "sousuoshifouercijiequ": "0",
+"jspic": "空",
+"jsname": "空",
+"jsid": "空",
 "ssjiequqian": "空",
 "ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"sstupianqianzhui": "空",//可以自己定义截取图片的前缀
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"ssljqianzhui": "空", //可以自己定义截取链接的前缀
-
-//播放页部分
+"ssjiequshuzuqian": "class=\"online-button",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "src=\"",
+"sstupianhou": "\"",
+"ssbiaotiqian": "alt=\"",
+"ssbiaotihou": "\"",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuqian": "class=\"showplayul",
 "bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"otherbox\">",
+"zhuangtaiqian": "影片分类:<span>",
 "zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
+"daoyanqian": "导演</span>",
+"daoyanhou": "</a>",
+"zhuyanqian": "主演：",
 "zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
-"juqinghou": "</span>",
+"juqingqian": "剧情：",
+"juqinghou": "</p>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
@@ -76,6 +54,4 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\"",
-"bfqianzhui": "空" //可以自己定义截取播放链接的前缀
-}
+"bflianjiehou": "\""}
