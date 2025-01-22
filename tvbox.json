@@ -12,6 +12,7 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
+{"key":"华为资源","name": "华为资源","api": "https://cjhwba.com/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 {"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
