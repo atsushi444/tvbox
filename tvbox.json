@@ -12,9 +12,9 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"资源","name": "如意","api": "https://cj.rycjapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"资源","name": "如意","api": "https://cj.rycjapi.com/api.php/provide/vod/","type":0,"searchable":1,"quickSearch":1},
+            
 {"key":"豆瓣资源","name": "豆瓣资源","api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/","type":1,"searchable":1,"quickSearch":1},
-
 {"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
