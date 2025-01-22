@@ -12,7 +12,7 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"资源","name": "资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/久奇电影网.json"},
+{"key":"资源","name": "资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/atsushi444/tvbox/refs/heads/main/XYQBiu/%E4%B9%85%E5%A5%87%E7%94%B5%E5%BD%B1%E7%BD%91.json"},
 
             {"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
