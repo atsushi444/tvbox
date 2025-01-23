@@ -104,6 +104,22 @@
                 "type": "rect",
                 "ratio": 1.485}
         },
+ {
+            "key": "Eighteen",
+            "name": "Eighteen",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 0,
+            "changeable": 1
+        },
+{
+            "key": "csp_Netflav",
+            "name": "Netflav",
+            "type": 3,
+            "api": "csp_Netflav",
+            "searchable": 0,
+            "changeable": 1
+        },
      {
       "key": "黑料",
       "name": "🔞黑料",
