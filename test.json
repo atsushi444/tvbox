@@ -150,8 +150,8 @@
 {"key":"蜜桃视频","name": "蜜桃视频","api": "https://mtav.art/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":136},
 {"key":"色资源","name": "色资源","api": "https://sezy.website/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":137},
 {"key":"天美AV","name": "天美AV","api": "https://tmav.art/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":138},
-{"key":"QQ传媒","name": "QQ传媒","api": "https://qqcm.sbs/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":139}
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"},
+{"key":"QQ传媒","name": "QQ传媒","api": "https://qqcm.sbs/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":139},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
