@@ -12,10 +12,8 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"资源","name": "桃花","api": "https://thzy1.me/api.php/provide/vod/at/xml","type":1,"searchable":1,"quickSearch":1},
-{"key":"资源","name": "极品1","api": "https://thzy1.me/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
-{"key":"资源","name": "桃花0","api": "https://thzy1.me/api.php/provide/vod/at/xml","type":0,"searchable":1,"quickSearch":1},
-{"key":"资源","name": "极品","api": "https://thzy1.me/api.php/provide/vod/?ac=list","type":0,"searchable":1,"quickSearch":1}, 
+{"key":"资源","name": "黑木耳","api": "https://json.heimuer.xyz/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"资源","name": "极品1","api": "https://json.heimuer.xyz/api.php/provide/vod/","type":0,"searchable":1,"quickSearch":1},
             
 {"key":"爱坤资源","name": "爱坤资源","api": "https://ikunzyapi.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1},            
 {"key":"旺旺资源","name": "旺旺","api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},            
