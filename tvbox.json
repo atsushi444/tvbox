@@ -150,11 +150,11 @@
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 {
-			"key": "追剧",
-			"name": "追剧┃App",
+			"key": "天天",
+			"name": "天天┃App",
 			"type": 3,
 			"api": "csp_TTian",
-			"ext": "http://app.kzjtv.com$$$null$$$1"
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 {"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 {"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
