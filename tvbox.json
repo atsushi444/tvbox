@@ -21,7 +21,6 @@
 {"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"魔都资源","name": "魔都资源","api": "https://www.moduzy.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"最大资源","name": "最大资源","api": "https://api.zuidapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"极速资源","name": "极速资源","api": "https://jszyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"快车资源","name": "快车资源","api": "https://caiji.kczyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
