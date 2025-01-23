@@ -12,8 +12,8 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"番茄资源","name": "1樱花","api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
-{"key":"资源","name": "极品1","api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","type":0,"searchable":1,"quickSearch":1},
+{"key":"番茄资源","name": "爱坤","api": "https://ikunzyapi.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1},
+{"key":"资源","name": "极品1","api": "https://ikunzyapi.com/api.php/provide/vod","type":0,"searchable":1,"quickSearch":1},
             
 {"key":"旺旺资源","name": "旺旺","api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},            
 {"key":"豆瓣资源","name": "豆瓣资源","api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn/","type":1,"searchable":1,"quickSearch":1},
