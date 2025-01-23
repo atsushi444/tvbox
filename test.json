@@ -1,0 +1,532 @@
+{
+"spider":"./pg.jar",
+"logo":"https://cdn.pixabay.com/photo/2020/08/09/11/43/woman-5475306_1280.jpg",
+"lives":[
+{"name":"初秋语","type":0,"url":"./listx.txt"},
+{"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
+{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
+{"name":"AV","type":0,"url":"./livex.m3u"}
+],
+"wallpaper":"https://liu.chuqiuyu.workers.dev",
+            
+"wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
+
+"sites":[  
+{"key":"TIMI","name": "TIMI","api": "https://vipcj.timizy.top/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":1},
+{"key":"小猫咪","name": "小猫咪","api": "https://zy.xiaomaomi.tv/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":2},
+{"key":"海洋资源","name": "海洋资源","api": "https://www.seacms.org/zyapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":3},
+{"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":4},
+{"key":"奈斯资源","name": "奈斯资源","api": "http://123.129.230.58:3388/api.php/provide/vod/ ","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":5},
+{"key":"U酷资源","name": "U酷资源","api": "https://api.ukuapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":6},
+{"key":"360资源","name": "360资源","api": "https://360zy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":7},
+{"key":"黑木耳资源","name": "黑木耳资源","api": "https://json.heimuer.tv/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":8},
+{"key":"鸭鸭资源","name": "鸭鸭资源","api": "https://cj.yayazy.net/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":9},
+{"key":"牛牛资源","name": "牛牛资源","api": "https://api.niuniuzy.me/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":10},
+{"key":"丫丫资源","name": "丫丫资源","api": "https://cj.yayazy.net/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":11},
+{"key":"OK资源","name": "OK资源","api": "https://api.okzy.org/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":12},
+{"key":"觅知","name": "觅知","api": "http://38.6.164.62/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":13},
+{"key":"淘片资源","name": "淘片资源","api": "https://taopianapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":14},
+{"key":"华为吧","name": "华为吧","api": "https://huawei8.live/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":15},
+{"key":"鱼乐资源","name": "鱼乐资源","api": "https://104.161.22.124/api.php/provide/vod","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":16},
+{"key":"索尼资源","name": "索尼资源","api": "https://suoniapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":17},
+{"key":"豪华资源","name": "豪华资源","api": "https://hhzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":18},
+{"key":"速博资源","name": "速博资源","api": "https://subocaiji.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":19},
+{"key":"虎牙资源","name": "虎牙资源","api": "https://www.huyaapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":20},
+{"key":"魔都资源","name": "魔都资源","api": "https://www.moduzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":21},
+{"key":"最大资源","name": "最大资源","api": "https://api.zuidapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":22},
+{"key":"暴风资源","name": "暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
+{"key":"快看资源","name": "快看资源","api": "https://kuaikan-api.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":24},
+{"key":"CK资源","name": "CK资源","api": "https://ckzy.me/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":25},
+{"key":"极速资源","name": "极速资源","api": "https://jszyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":26},
+{"key":"火狐资源","name": "火狐资源","api": "https://hhzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":27},
+{"key":"金鹰资源","name": "金鹰资源","api": "https://jyzyapi.com/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":28},
+{"key":"爱坤资源","name": "爱坤资源","api": "https://ikunzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":29},
+{"key":"非凡资源","name": "非凡资源","api": "http://cj.ffzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":30},
+{"key":"1080资源库","name": "1080资源库","api": "https://api.1080zyku.com/inc/apijson.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":31},
+{"key":"快车资源","name": "快车资源","api": "https://caiji.kczyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":32},
+{"key":"量子资源","name": "量子资源","api": "http://cj.lziapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":33},
+{"key":"卧龙资源","name": "卧龙资源","api": "https://collect.wolongzyw.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":34},
+{"key":"红牛资源","name": "红牛资源","api": "https://www.hongniuzy2.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":35},
+{"key":"樱花资源","name": "樱花资源","api": "https://m3u8.apiyhzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":36},
+{"key":"易看资源","name": "易看资源","api": "https://api.yikanapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":37},
+{"key":"闪电资源","name": "闪电资源","api": "https://sdzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":38},
+{"key":"飞速资源","name": "飞速资源","api": "https://www.feisuzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":39},
+{"key":"光速资源","name": "光速资源","api": "https://api.guangsuapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":40},
+{"key":"新浪资源","name": "新浪资源","api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":41},
+{"key":"八戒资源","name": "八戒资源","api": "http://cj.bajiecaiji.com/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":42},
+{"key":"百度资源","name": "百度资源","api": "https://api.apibdzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":43},
+{"key":"无尽资源","name": "无尽资源","api": "https://api.wujinapi.net/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":44},
+{"key":"天空资源","name": "天空资源","api": "https://api.tiankongapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":45},
+{"key":"天堂资源","name": "天堂资源","api": "https://tiantangapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":46},
+{"key":"影图","name": "影图","api": "https://cj.vodimg.top/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":47},
+{"key":"天翼影视","name": "天翼影视","api": "https://www.911ysw.top/tianyi.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":48},
+{"key":"39影视","name": "39影视","api": "https://www.394tv.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":49},
+{"key":"飘零影院","name": "飘零影院","api": "https://p2100.net/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":50},
+{"key":"票厂影视","name": "票厂影视","api": "http://101.43.119.105:88/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":51},
+{"key":"雨落影视","name": "雨落影视","api": "http://dsakf23665.com/api.php/provide/vod","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":52},
+{"key":"155资源","name": "155资源","api": "https://155api.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":53},
+{"key":"优优资源","name": "优优资源","api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":54},
+{"key":"GAY资源","name": "GAY资源","api": "https://gayapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":55},
+{"key":"桃花资源","name": "桃花资源","api": "https://thzy1.me/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":56},
+{"key":"色色虎","name": "色色虎","api": "https://apisesehuzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":57},
+{"key":"阿里BB仓库","name": "阿里BB仓库","api": "https://bbckzy8.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":58},
+{"key":"精品X","name": "精品X","api": "https://www.jingpinx.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":59},
+{"key":"搞起资源","name": "搞起资源","api": "https://caiji.gqjiexi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":60},
+{"key":"资源首发","name": "资源首发","api": "http://45.58.178.99/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":61},
+{"key":"美色资源","name": "美色资源","api": "https://api.meiapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":62},
+{"key":"麻豆资源","name": "麻豆资源","api": "https://c.mdvod.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":63},
+{"key":"黄瓜资源","name": "黄瓜资源","api": "https://www.zy018.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":64},
+{"key":"黄瓜资源","name": "黄瓜资源","api": "https://www.avre04.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":65},
+{"key":"花都影视","name": "花都影视","api": "https://hdys2.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":66},
+{"key":"萝莉资源","name": "萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":67},
+{"key":"七天","name": "七天","api": "https://8day.icu/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":68},
+{"key":"湿乐园","name": "湿乐园","api": "https://xxavs.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":69},
+{"key":"优异资源","name": "优异资源","api": "https://a.uezy.pw/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":70},
+{"key":"SEAJAV","name": "SEAJAV","api": "https://seajav.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":71},
+{"key":"精品葡萄","name": "精品葡萄","api": "https://caiji.putaozyw.net/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":72},
+{"key":"老色逼资源","name": "老色逼资源","api": "https://apilsbzy1.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":73},
+{"key":"橘猫资源(丝袜)","name": "橘猫资源(丝袜)","api": "https://to.to-long.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":74},
+{"key":"丝袜资源","name": "丝袜资源","api": "https://www.siwazyw.tv/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":75},
+{"key":"探探资源","name": "探探资源","api": "https://apittzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":76},
+{"key":"色猫资源","name": "色猫资源","api": "https://caiji.semaozy.net/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":77},
+{"key":"皇冠资源","name": "皇冠资源","api": "https://bb.hgzy18.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":78},
+{"key":"滴滴资源","name": "滴滴资源","api": "https://api.ddapi.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":79},
+{"key":"雪豹资源","name": "雪豹资源","api": "https://api.xbapi.cc/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":80},
+{"key":"森林资源","name": "森林资源","api": "https://slapibf.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":81},
+{"key":"玉兔资源","name": "玉兔资源","api": "https://apiyutu.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":82},
+{"key":"草榴资源","name": "草榴资源","api": "https://www.caoliuzyw.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":83},
+{"key":"老鸨资源","name": "老鸨资源","api": "http://laobaozy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":84},
+{"key":"老鸭资源","name": "老鸭资源","api": "https://api.apilyzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":85},
+{"key":"鸡坤资源","name": "鸡坤资源","api": "https://jkunzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":86},
+{"key":"奶香香资源","name": "奶香香资源","api": "https://naixxzy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":87},
+{"key":"奥斯卡资源","name": "奥斯卡资源","api": "https://aosikazy.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":88},
+{"key":"色南国资源","name": "色南国资源","api": "https://api.sexnguon.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":89},
+{"key":"越南资源","name": "越南资源","api": "https://vnzyz.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":90},
+{"key":"91麻豆","name": "91麻豆","api": "https://91md.me/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":91},
+{"key":"美少女资源","name": "美少女资源","api": "https://www.msnii.com/api/json.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":92},
+{"key":"淫水机资源","name": "淫水机资源","api": "https://www.xrbsp.com/api/json.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":93},
+{"key":"香奶儿资源","name": "香奶儿资源","api": "https://www.gdlsp.com/api/json.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":94},
+{"key":"白嫖资源","name": "白嫖资源","api": "https://www.kxgav.com/api/json.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":95},
+{"key":"小湿妹资源","name": "小湿妹资源","api": "https://www.afasu.com/api/json.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":96},
+{"key":"黄AV资源","name": "黄AV资源","api": "https://www.pgxdy.com/api/json.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":97},
+{"key":"大地资源","name": "大地资源","api": "https://dadiapi.com/api.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":98},
+{"key":"辣椒资源","name": "辣椒资源","api": "https://apilj.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":99},
+{"key":"乐播资源","name": "乐播资源","api": "https://lbapi9.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":100},
+{"key":"富二代资源","name": "富二代资源","api": "http://f2dcj6.com/sapi","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":101},
+{"key":"利来资源","name": "利来资源","api": "http://llzxcj.com/inc/sck.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":102},
+{"key":"番号资源","name": "番号资源","api": "http://fhapi9.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":103},
+{"key":"鲨鱼资源","name": "鲨鱼资源","api": "https://shayuapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":104},
+{"key":"KK写真资源","name": "KK写真资源","api": "https://kkzy.me/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":105},
+{"key":"色屌丝资源","name": "色屌丝资源","api": "http://sdszyapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":106},
+{"key":"小姐姐资源","name": "小姐姐资源","api": "https://xjjzyapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":107},
+{"key":"52AVAV","name": "52AVAV","api": "https://52zyapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":108},
+{"key":"我要啪啪","name": "我要啪啪","api": "http://www.caiji21.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":109},
+{"key":"AV集中淫","name": "AV集中淫","api": "https://www.caiji22.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":110},
+{"key":"夜夜撸资源","name": "夜夜撸资源","api": "https://www.caiji23.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":111},
+{"key":"大屌丝资源","name": "大屌丝资源","api": "http://www.caiji24.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":112},
+{"key":"咪咪资源","name": "咪咪资源","api": "http://www.caiji25.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":113},
+{"key":"鲍鱼AV","name": "鲍鱼AV","api": "http://caiji26.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":114},
+{"key":"精工厂资源","name": "精工厂资源","api": "https://jgczyapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":115},
+{"key":"点点娱乐","name": "点点娱乐","api": "https://xx55zyapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":116},
+{"key":"大MM资源","name": "大MM资源","api": "https://www.dmmapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":117},
+{"key":"老司鸡资源","name": "老司鸡资源","api": "https://www.lsjapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":118},
+{"key":"黄瓜TV资源","name": "黄瓜TV资源","api": "https://www.caiji10.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":119},
+{"key":"快播盒子资源","name": "快播盒子资源","api": "https://www.caiji09.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":120},
+{"key":"大香蕉资源","name": "大香蕉资源","api": "https://www.caiji08.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":121},
+{"key":"日本AV在线","name": "日本AV在线","api": "https://www.caiji07.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":122},
+{"key":"青青草视频","name": "青青草视频","api": "https://www.caiji05.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":123},
+{"key":"麻豆视频","name": "麻豆视频","api": "https://www.caiji04.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":124},
+{"key":"一本道资源","name": "一本道资源","api": "https://www.caiji03.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":125},
+{"key":"草榴视频","name": "草榴视频","api": "https://www.caiji02.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":126},
+{"key":"亚洲成人在线","name": "亚洲成人在线","api": "https://www.caiji01.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":127},
+{"key":"99资源","name": "99资源","api": "http://99zy.pw/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":128},
+{"key":"速度资源","name": "速度资源","api": "http://www.ggmmzy.com:9999/inc/xml","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":129},
+{"key":"91视频","name": "91视频","api": "https://91av.cyou/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":130},
+{"key":"博天堂","name": "博天堂","api": "http://bttcj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":131},
+{"key":"环亚资源","name": "环亚资源","api": "http://hysscj.com/inc/sapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":132},
+{"key":"好色资源","name": "好色资源","api": "https://haosezyw.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":133},
+{"key":"久爱","name": "久爱","api": "http://92free.icu/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":134},
+{"key":"麻豆视频","name": "麻豆视频","api": "http://www.madouse.la/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":135},
+{"key":"蜜桃视频","name": "蜜桃视频","api": "https://mtav.art/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":136},
+{"key":"色资源","name": "色资源","api": "https://sezy.website/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":137},
+{"key":"天美AV","name": "天美AV","api": "https://tmav.art/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":138},
+{"key":"QQ传媒","name": "QQ传媒","api": "https://qqcm.sbs/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":139}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"},
+],
+"parses":[
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name": "全能[①]","type": 0,"url": "https://jx.255tv.cn/api/?key=3t4CoYwM7x73KDaBAE&url="},
+
+{"name": "全能[③]","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"鸿途手动解析","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"鸿途手动解析2","type":0,"url":"https://h5.freejson.xyz/player/analysis.php?v=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"PRAWIX手动解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"PRAWIX手动解析2","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"酷享","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+
+{"name":"江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+
+{"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+
+{ "name": "蓝狐", "type": 1, "url":" https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url="},
+
+{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{ "name" : "nhusp", "type" : 1, "url" : "https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url=" ,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{ "name" : "荣兴", "type" : 1, "url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" },
+
+{ "name" : "懒懒1", "type" : 1, "url" : "http://123.57.56.94:9931/lanlan/?url=" },
+
+{ "name" : "懒懒2", "type" : 1, "url" : "http://lanlan.ckflv.cn/?url=", "ext" : { "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905"] } },
+
+{"name":"能解","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+
+{"name":"萝莉","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+
+{"name":"直解","type":1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+
+{"name":"rxvip","type":1,"url": "https://vip.rongxingvr.top/api/?key=CwQXkIXGfaUNGVomez&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+
+{"name":"极速[①]","type":1,"url":" http://1.117.111.78:93/home/api?type=ys&uid=24751&key=mqsuvzEFHLMQRWXZ28&url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name": "测试[②]","type": 1,"url": "http://1.117.111.78:93/home/api?type=ys&uid=24751&key=demntvwzBCKLOPRSY3&url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name": "极速[②]","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+},
+
+{"name": "智能[①]","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name": "智能[③]","type": 1,"url": "http://api.ckflv.cn/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name": "智能[④]","type": 1,"url": "https://json.freejx.in/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name": "备用[①]","type": 1,"url": "https://jx.255tv.cn/api/?key=ZMQ3AzFpKsCal5aoqa&url="},
+
+{"name": "备用[②]","type": 1,"url": "https://k.json.icu/home/api?type=ys&uid=12523586&key=bhjlntBEIJKLPQW146&url="},
+
+{"name": "备用[③]","type": 1,"url": "https://k.json.icu/home/api?type=ys&uid=13483004&key=cghjkqrsyKPRV12356&url="},
+
+{"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
+
+{"name": "宝盒TV","type": 1,"url": "https://jx.52ruo.cc/json/?id=6&url="}
+],
+
+
+"rules":[
+{
+"host":"www.djuu.com",
+"rule":[
+"mp4.djuu.com",
+"m4a"]
+},
+{
+"host":"m.ysxs8.vip",
+"rule":[
+"ysting.ysxs8.vip:81",
+"xmcdn.com"],
+"filter":[
+]
+},
+{
+"host":"hdmoli.com",
+"rule":[
+".m3u8"]
+},
+{
+"host":"https://api.live.bilibili.com",
+"rule":[
+"bilivideo.com",
+"/index.m3u8"],
+"filter":[
+"data.bilibili.com/log/web",
+"i0.hdslb.com/bfs/live/"]
+},
+{
+"host":"www.agemys.cc",
+"rule":[
+"cdn-tos",
+"obj/tos-cn"]
+},
+{
+"host":"www.fun4k.com",
+"rule":[
+"https://hd.ijycnd.com/play",
+"index.m3u8"]
+},
+{
+"host":"zjmiao.com",
+"rule":[
+"play.videomiao.vip/API.php",
+"time=",
+"key=",
+"path="]
+},
+{
+"host":"*",
+"rule":[
+"default.365yg.com"]
+},
+{
+"host":"dyxs20.com",
+"rule":[
+".m3u8"]
+},
+{
+"host":"www.sharenice.net",
+"rule":[
+"http.*?/play.{0,3}\\?[^url]{2,8}=.*"]
+},
+{
+"host":"www.sharenice.net",
+"rule":[
+"sovv.qianpailive.com",
+"vid="],
+"filter":[
+]
+},
+{
+"host":"www.sharenice.net",
+"rule":[
+"qianpailive.com",
+"vid="]
+},
+{
+"host":"www.sharenice.net",
+"rule":[
+"douyin.com",
+"/play/"]
+},
+{
+"host":"*",
+"rule":[
+"douyin.com/aweme",
+"video_id="]
+},
+{
+"host":"www.sharenice.net",
+"rule":[
+"huoshan.com",
+"/item/video/"],
+"filter":[
+]
+},
+{
+"host":"*",
+"rule":[
+"http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]
+},
+{
+"host":"*",
+"rule":[
+"http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]
+}
+],
+
+"flags":["imgo","youku","qq","iqiyi","qiyi","fun","letv","leshi","sohu","tudou","xigua","cntv","1905","pptv","mgtv","wasu","bilibili","renrenmi"
+],
+"hotSearch":[
+{
+"name":"mobilesearch",
+"request":{
+"method":"GET",
+"header":[
+{
+"key":"Referer",
+"value":"https://boxpy.once678.repl.co"
+}
+],
+"url":{
+"raw":"https://boxpy.once678.repl.co/hotsugg?t={time}"
+}
+},
+"response":{
+"result":"$.data",
+"data":[
+{
+"key":"keyword",
+"value":"title"
+}
+]
+}
+}
+],
+"sniffer":{
+"userAgent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/105.0.0.0Safari/537.36Edg/105.0.1343.27",
+"isVideoFormat":"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+"custom":[
+{
+"url":"/Cloud/Down/AliCloud/",
+"mimeType":"text/html",
+"encoding":"utf-8",
+"header":{
+"Referer":"https://zxzj.vip/"
+}
+}
+]
+},
+
+// 每日一言 (随机显示欢迎语)
+"dairyWords":[
+{
+"name":"rating",
+"request":{
+"method":"GET",
+"url":{
+"raw":"https://saying.api.azwcl.com/saying/get"
+}
+},
+"response":{
+"result":"$.data.content"
+},
+"expires":"43200"
+}
+],
+
+//首页推荐视频(IMDbPopularMovies)
+"recommend":[{
+"name":"imdb",
+"request":{
+"method":"GET",
+"url":{
+"raw":"https://imdb-api.com/en/API/MostPopularMovies/k_1kz039kt"
+}
+},
+"response":{
+"result":"$.items",
+"data":[{
+"key":"name",
+"value":"title"
+},
+{
+"key":"note",
+"value":"imDbRating"
+},
+{
+"key":"pic",
+"value":"image"
+}]
+},
+"expires":"86400"
+}],
+
+//首页推荐视频(豆瓣)
+"recommend":[{
+"name":"豆瓣推荐",
+"request":{
+"method":"GET",
+"header":[{
+"key":"Referer",
+"value":"https://movie.douban.com/"
+}],
+"url":{
+"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+}
+},
+"response":{
+"result":"$.data",
+"data":[{
+"key":"name",
+"value":"title"
+},
+{
+"key":"note",
+"value":"rate"
+},
+{
+"key":"pic",
+"value":"cover"
+}]
+},
+"expires":"86400"
+}],
+
+// 评分 (数据来自 豆瓣)
+"rating":[{
+"name":"rating",
+"request":{
+"method":"GET",
+"url":{
+"raw":"https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+}
+},
+"response":{
+"result":"this",
+"data":[{
+"key":"rating",
+"value":"doubanRating"
+}]
+}
+}],
+
+// 输入法智能联想接口
+//"association":[],
+
+// 中文分词接口
+"pullWord":[{
+"name":"pullWord",
+"request":{
+"method":"GET",
+"url":{
+"raw":"http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"
+}
+},
+"response":{
+"data":[{
+"key":"keyword",
+"value":"t"
+}]
+}
+}],
+
+// 字幕格式 (可选)
+"subtitle":{"color":"#FFFFFF","size":"30"},
+
+"dr_count":36,
+"mode":0,
+"ijk":[
+{"group":"软解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"0"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+{"category":4,"name":"mediacodec-hevc","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]},
+{"group":"硬解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"1"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+{"category":4,"name":"mediacodec-hevc","value":"1"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]}
+],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
