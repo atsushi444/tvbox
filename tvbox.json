@@ -12,7 +12,7 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"黑木耳资源","name": "优优资源","api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+{"key":"黑木耳资源","name": "魔都资源","api": "https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"资源","name": "极品1","api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/","type":0,"searchable":1,"quickSearch":1},
             
 {"key":"黑木耳资源","name": "黑木耳资源","api": "https://json.heimuer.xyz/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
