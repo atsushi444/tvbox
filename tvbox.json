@@ -12,9 +12,6 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"魔都资源","name": "非凡资源","api": "http://api.ffzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"暴风资源","name": "暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-            
 {"key":"魔都资源","name": "魔都资源","api": "https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"暴风资源","name": "暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},            
 {"key":"黑木耳资源","name": "黑木耳资源","api": "https://json.heimuer.xyz/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
