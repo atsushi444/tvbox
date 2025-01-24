@@ -95,7 +95,7 @@
 {"key": "Netflav","name": "Netflav","type": 3,"api": "csp_Netflav","searchable": 1,"changeable": 0 ,"jar": "./jar/Netflav.jar"},
 {"key": "XMVideo","name": "熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar":"./jar/182.jar"},
 {"key": "Cg51","name": "51吃瓜","type": 3,"api": "csp_Cg51","searchable": 1,"filterable": 1,"jar": "./jar/182.jar"},
-{"key":"nowav","name":"️Nowav","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/nowav.json"},
+{"key":"nowav","name":"️Nowav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQ/nowav.json"},
 { "key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/91黑料.json"},
 { "key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","style":{"ratio":1.7},"ext":"./XBPQ/黄色仓库.json"},
 {"key": "Theporn","name": "Theporn","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},"ext": "./js/theporn.js"},
