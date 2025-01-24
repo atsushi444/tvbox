@@ -172,6 +172,9 @@
 {"key":"传媒二区","name":"传媒二区","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/hl.jar",
 	"ext":{"主页url":"https://www.34gaobk.com/index.html","数组":"<div class=\"card mb-0\">&&</a","标题":"atl=\"&&\"","副标题":"img-tag\">&&</div>","简介":"document.title=\'&&\'","直接播放":"1","搜索模式":"1","搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/","分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"/gaotype/&&.html","分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"}
 },
+{"key":"沙咖影院","name":"沙咖影院","type":3,"api":"csp_XBPQ","api":"csp_XBPQ","jar":"./jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,
+"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}
+},
 {
             "key": "XVideos",
             "name": "🔞XVideos | 直连",
