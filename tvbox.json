@@ -203,7 +203,7 @@
             "name": "Eighteen",
             "type": 3,
             "api": "csp_Eighteen",
-            "searchable": 0,
+            "searchable": 1,
             "changeable": 1
         },
      {
