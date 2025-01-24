@@ -96,6 +96,7 @@
 {"key": "Cg51","name": "51吃瓜","type": 3,"api": "csp_Cg51","searchable": 1,"filterable": 1,"jar": "./jar/182.jar"},
 { "key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/91黑料.json"},
 { "key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","style":{"ratio":1.7},"ext":"./XBPQ/黄色仓库.json"},
+{"key": "Theporn","name": "Theporn","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},"ext": "./js/theporn.js"},
 { "key":"drpy_js_ss直播","name":"ss直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","timeout":30},
 { "key":"drpy_js_Missav","name":"💕Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
 { "key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js"},
