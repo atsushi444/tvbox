@@ -8,8 +8,8 @@
 
     "分类起始页码": "1",
     "分类链接": "https://nowav.tv/category/{cateId}/page/{catePg}",
-    "分类名称": "VB0A0.日本AV&VB0A1.韓國AV&VB0A2.台灣AV&VB0A3.亞洲AV&VB0A4.國產AV",
-    "分类名称替换词": "VB0A0.日本AV&VB0A1.韓國AV&VB0A2.台灣AV&VB0A3.亞洲AV&VB0A4.國產AV",
+    "分类名称": "日本AV&韓國AV&台灣AV&亞洲AV&國產AV&破壞版AV&流出版AV&漫改AV&主播福利&大神系列&直播系列&精選自拍&自拍流出",
+    "分类名称替换词": "VB0A0.日本AV&VB0A1.韓國AV&VB0A2.台灣AV&VB0A3.亞洲AV&VB0A4.國產AV&VB2A2.破壞版AV&VB2A4.流出版AV&VB2A5.漫改AV&VB2A6.主播福利&VB2A7.大神系列&VB2A8.直播系列&VB2A9.精選自拍&VB2B1.自拍流出",
     "分类截取模式": "1",
     "分类列表数组规则": "body&&.td-module-thumb",
     "分类片单是否Jsoup写法": "1",
