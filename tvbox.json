@@ -1,6 +1,6 @@
 {
-"spider":"./pg.jar",
 #"spider": "./jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+"spider":"./pg.jar",
 "logo":"https://cdn.pixabay.com/photo/2020/08/09/11/43/woman-5475306_1280.jpg",
 "lives":[
 {"name":"初秋语","type":0,"url":"./listx.txt"},
@@ -175,29 +175,6 @@
       "searchable": 1,
       "filterable": 1
     },
-{
-            "key": "我爱AV",
-            "name": "我爱AV社区|WO❤️AV",
-            "type": 3,
-            "api": "csp_XBPQ",
-           
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-                "副标题": "span class=\"pic-text text-right\">&&</p",
-                "线路数组": "<li&&</li>",
-                "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
-                "播放标题": ">&&</a",
-                "搜索模式": "1",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "/vodtype/&&.html",
-                "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"}
-        },
 {
             "key": "XVideos",
             "name": "🔞XVideos | 直连",
