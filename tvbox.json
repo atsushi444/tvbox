@@ -178,6 +178,12 @@
 {"key": "小幺女|床吧","name": "小幺女","type": 3,"playerType": 2,"api": "csp_XBPQ","jar": "./jar/xyqxbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
   "ext": {"站名": "小幺女","主页url": "https://xxynhkaa1.buzz/sort/id/245.html","数组": "class=\"vod_box\">&&</li>","图片": "url('&&'","标题": "title=\"&&\"","链接": "https://xxynhkaa1.buzz/detail+href='/display&&'","跳转播放链接": "var playUrl = '&&'","直接播放": "1","嗅探词": "index.m3u8","分类数组": "<a&&</a","分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]","分类ID": "href=\"/sort/id/&&.html\"","分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"}
 },
+{"key": "纤纤影视","name": "纤纤影视","type": 3,"api": "csp_XBPQ","jar":"./jar/hl.jar","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
+            "ext": {"主页url": "https://m.xian372.top/L/26.html","请求头": "手机","编码": "gb2312","数组": "<a class=\"ui-pic&&</a","图片": "src=\"&&\"","标题": "title=\"&&\"","副标题": "ui-type\">&&</span>","链接": "href=\"&&\"","简介": "description\"><p>&&</p","线路数组": "class=\"box p15\">&&</div>","线路标题": ">云播福利线路<","播放数组": "<div class=\"playlist&&</div","播放列表": "<li>&&</li","播放标题": ">&&</a","播放链接": "href='&&'","嗅探词": "index.m3u8","搜索数组": "<a class=\"ui-pic&&</a","搜索图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1","分类数组": "<a&&</a","分类标题": ".html\">&&</a[不包含:2#3#4#5#下一页]","分类ID": "href=\"/L/&&.html\"","分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}
+},
+{ "key": "麻豆","name": "麻豆","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","jar":"./jar/xyqxbpq.jar","style": {"ratio": 1.7},
+            "ext": { "搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类": "日本视频$1#麻豆视频$2","分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}
+        },
 {
             "key": "XVideos",
             "name": "🔞XVideos | 直连",
