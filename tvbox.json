@@ -101,7 +101,6 @@
 { "key":"drpy_js_Missav","name":"💕Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
 { "key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js"},
 	
-{"key":"XYQBiu_黄仓库","name":"黄仓库|XYQBiu","type":3,"api":"csp_XYQBiu", "jar":"./XYQBiu/黄仓库.json"},       
 {"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
