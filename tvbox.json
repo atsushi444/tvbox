@@ -1,6 +1,6 @@
 {
-#"spider":"./pg.jar",
-"spider": "./jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+"spider":"./pg.jar",
+#"spider": "./jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
 "logo":"https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
 "lives":[
 {"name":"初秋语","type":0,"url":"./listx.txt"},
