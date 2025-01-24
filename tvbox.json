@@ -55,7 +55,7 @@
 { "key": "KxrbspE", "name": "🔞淫水机(直连)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "gdlsE", "name": "🔞香奶儿(直连)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "kxgav", "name": "🔞白嫖(直连)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key":"11bat","name":"11bat","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{ "key":"11bat","name":"❤11bat","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "(18+)富二代资源", "name": "❤富二代资源(直连)", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "(18+)大地资源", "name": "❤大地资源(直连)", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "(18+)番号资源", "name": "❤番号资源(直连)", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -89,7 +89,7 @@
 { "key":"奥斯卡资源","name":"🔞奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":1}, 
 {"key":"萝莉资源","name": "🔞萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"jar": "./pg.jar","style":{"type":"rect","ratio":1.309}},
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.309}},
 {"key": "18AV","name": "18AV","type": 3,"api": "csp_Eighteen","searchable": 1,"recordable": 0,"jar": "./jar/pg.jar","style": {"type": "rect","ratio": 1.485}},
 { "key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
 { "key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
