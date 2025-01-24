@@ -1,7 +1,7 @@
 {
 "spider":"./pg.jar",
 #"spider": "./jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
-"logo":"https://cdn.pixabay.com/photo/2020/08/09/11/43/woman-5475306_1280.jpg",
+"logo":"https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
 "lives":[
 {"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
