@@ -27,7 +27,6 @@
 {"key":"光速资源","name": "光速资源","api": "https://api.guangsuapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"影图","name": "影图","api": "https://cj.vodimg.top/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"飘零影院","name": "飘零影院","api": "https://p2100.net/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"U酷资源","name": "U酷资源","api": "https://api.ukuapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"360资源","name": "360资源","api": "https://360zy.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"牛牛资源","name": "牛牛资源","api": "https://api.niuniuzy.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
