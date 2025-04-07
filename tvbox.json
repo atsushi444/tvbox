@@ -64,13 +64,10 @@
 { "key":"玉兔资源","name": "❤玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 { "key":"laosebizy.com","name":"❤老色逼","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1}, 
 { "key":"naixxzy.com","name":"❤奶香香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"优优资源","name": "❤优优资源","api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"GAY资源","name": "❤GAY资源","api": "https://gayapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"桃花资源","name": "❤桃花资源","api": "https://thzy1.me/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"环亚资源","name": "❤环亚资源","api": "http://hysscj.com/inc/sapi.php","type":0,"searchable":1,"quickSearch":1},
-{"key":"极品资源","name": "❤极品资源","api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 {"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
-{"key":"花都影视","name": "❤花都影视","api": "https://hdys2.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":66},
 {"key":"七天","name": "❤七天","api": "https://8day.icu/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":68},
 {"key":"湿乐园","name": "❤湿乐园","api": "https://xxavs.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":69},
 {"key":"优异资源","name": "❤优异资源","api": "https://a.uezy.pw/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":70},
@@ -81,6 +78,8 @@
 { "key": "采集A（精品）","name": "🔞精品","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 { "key":"didizy.com","name":"🔞滴滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 { "key":"奥斯卡资源","name":"🔞奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":1}, 
+	{ "key":"奥斯卡资源","name":"卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":1}, 
+	
 {"key":"萝莉资源","name": "🔞萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.309}},
