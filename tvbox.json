@@ -77,9 +77,7 @@
 { "key": "api.sexnguon.com", "name": "🔞色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 1},
 { "key": "采集A（精品）","name": "🔞精品","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 { "key":"didizy.com","name":"🔞滴滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{ "key":"奥斯卡资源","name":"🔞奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":1}, 
-	{ "key":"奥斯卡资源","name":"卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":1}, 
-	
+{ "key":"奥斯卡资源","name":"🔞奥斯卡资源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":1}, 	
 {"key":"萝莉资源","name": "🔞萝莉资源","api": "https://192.151.223.213/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"jar": "./jar/pg.jar","style":{"type":"rect","ratio":1.309}},
