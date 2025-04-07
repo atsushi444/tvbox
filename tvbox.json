@@ -14,6 +14,10 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
+{"key":"如意资源","name":"如意资源","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{ "key":"魔爪资源","name":"魔爪资源","type":1,"api":"https://mozhuazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{ "key":"番茄资源","name":"番茄资源","type":1,"api":"https://fqzy.me//api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {"key":"魔都资源","name": "魔都资源","api": "https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},          
 {"key":"黑木耳资源","name": "黑木耳资源","api": "https://json.heimuer.xyz/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"旺旺资源","name": "旺旺资源","api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},            
@@ -42,7 +46,7 @@
 { "key": "非凡", "name": "非凡", "type": 0, "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"易看资源-伦理","name":"易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{ "key":"X细胞","name":"X细胞","type":1,"api":"https://www.xxibaozyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{ "key":"X细胞","name":"❤X细胞","type":1,"api":"https://www.xxibaozyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 { "key": "ms4nii", "name": "🔞美少女(直连)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "KxrbspE", "name": "🔞淫水机(直连)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "gdlsE", "name": "🔞香奶儿(直连)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
