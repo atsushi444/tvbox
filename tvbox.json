@@ -25,7 +25,6 @@
 {"key":"极速资源","name": "极速资源","api": "https://jszyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name": "卧龙资源","api": "https://collect.wolongzyw.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"光速资源","name": "光速资源","api": "https://api.guangsuapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"天空资源","name": "天空资源","api": "https://api.tiankongapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"影图","name": "影图","api": "https://cj.vodimg.top/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"飘零影院","name": "飘零影院","api": "https://p2100.net/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"虾米资源","name": "虾米资源","api": "https://zy.hls.one/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
