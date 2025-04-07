@@ -14,8 +14,7 @@
 "wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
 
 "sites":[  
-{"key":"魔都资源","name": "魔都资源","api": "https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
-{"key":"暴风资源","name": "暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},            
+{"key":"魔都资源","name": "魔都资源","api": "https://www.mdzyapi.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},          
 {"key":"黑木耳资源","name": "黑木耳资源","api": "https://json.heimuer.xyz/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 {"key":"爱坤资源","name": "爱坤资源","api": "https://ikunzyapi.com/api.php/provide/vod","type":1,"searchable":1,"quickSearch":1},            
 {"key":"旺旺资源","name": "旺旺资源","api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},            
@@ -292,8 +291,6 @@
 
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 	
-{"name": "暴风","type": 1,"url": "https://vip.vipuuvip.com/?url="},
-
 {"name": "宝盒TV","type": 1,"url": "https://jx.52ruo.cc/json/?id=6&url="}
 ],
 
