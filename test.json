@@ -1,33 +1,15 @@
 {
-"spider":"./pg.jar",
-"logo":"https://cdn.pixabay.com/photo/2020/08/09/11/43/woman-5475306_1280.jpg",
-"lives":[
-{"name":"初秋语","type":0,"url":"./listx.txt"},
-{"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
-{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
-{"name":"AV","type":0,"url":"./livex.m3u"}
-],
-"wallpaper":"https://liu.chuqiuyu.workers.dev",
-            
-"wallpaper":"http://api.btstu.cn/sjbz/?lx=meizi",
-
-"sites":[  
-{"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
-{"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
-{"key": "AvTime","name": "AvTime","type": 3,"api": "csp_AvTime","searchable": 1,"changeable": 0},
-{"key": "Top888","name": "Top888","type": 3,"api": "csp_Top888","searchable": 1,"changeable": 0},
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
-{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
-{"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
-{"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
-{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
-{"key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","style":{"ratio":1.7},"ext":"./XBPQ/黄色仓库.json"},
-{"key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/91黑料.json"},
-{"key":"我爱AV","name":"我爱AV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/我爱AV.json","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"},
-{"key":"drpy_js_ss直播","name":"ss直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","timeout":30},
-{"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
-{"key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
+"spider":"./jar/xc0126.jar",
+ "sites": [
+    {
+      "key": "drpy_js_Missav",
+      "name": "💕Missav",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./js/Missav.js"
+    }, 
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
@@ -92,7 +74,9 @@
 {"name": "备用[③]","type": 1,"url": "https://k.json.icu/home/api?type=ys&uid=13483004&key=cghjkqrsyKPRV12356&url="},
 
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-
+	
+{"name": "10802","type": 1,"url": "https://vip.zykbf.com/?url="},
+	
 {"name": "宝盒TV","type": 1,"url": "https://jx.52ruo.cc/json/?id=6&url="}
 ],
 
